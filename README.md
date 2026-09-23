@@ -43,4 +43,4 @@ Mapa final
 
 El mapa final del proyecto fue exportado en formato PDF y PNG.
 
-[Example Image](mapa_final.png)
+[Mapa](mapa_final.png)
