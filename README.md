@@ -42,3 +42,7 @@ Limitaciones
 Mapa final
 
 El mapa final del proyecto fue exportado en formato PDF y PNG.
+
+## Mapa final
+
+![Mapainal.png
