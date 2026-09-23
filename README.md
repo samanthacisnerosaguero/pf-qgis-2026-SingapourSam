@@ -43,4 +43,4 @@ Mapa final
 
 El mapa final del proyecto fue exportado en formato PDF y PNG.
 
-[Mapa](mapa_final.png)
+![Mapa Singapore 2000- 2020](mapa_final.png)
